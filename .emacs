@@ -23,3 +23,5 @@
 (setq org-startup-folded nil)
 
 (setq org-hierarchical-todo-statistics nil)
+
+(load-theme 'adwaita)
